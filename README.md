@@ -27,7 +27,7 @@ Subjective;
 
 Objective;
 
-- It doesn't have any GUI unles you use libraries.
+- It doesn't have any GUI unless you use libraries.
 - There are libraries for the effects.
 
 Subjective;
@@ -63,8 +63,8 @@ In the end, I chose to work with Unity3D, because I have the most experience wit
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |  | Created the repo and the ReadME. |  |  |  |
-|week 2 |  | Testing with values in the Post Processor. | Creating the script that handles the effects | Adding UI elements and a bit of finalisation. | Wrap up & hand in. |
+|week 1 | | Created the repo and the ReadME. | | | |
+|week 2 | | Testing with values in the Post Processor. | Creating the script that handles the effects | Adding UI elements and a bit of finalisation. | Wrap up & hand in. |
 
 ## Sources.
 
