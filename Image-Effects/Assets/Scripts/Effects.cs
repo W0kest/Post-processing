@@ -22,6 +22,7 @@ public class Effects : MonoBehaviour
         volume.profile.TryGetSettings(out LD);
     }
 
+    //Clears effects
     public void ClearEffects()
     {
         BloomLayer.intensity.value = 0;
